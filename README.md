@@ -1,6 +1,8 @@
 # FastEncode
 Fastest encryption and hashing
 
+### The project is abandoned but it's still a good investigation work and set of encoding algorithms benchmarks 
+
 Special thanks:
 For Base64 SIMD implementations
 https://github.com/aklomp/base64
